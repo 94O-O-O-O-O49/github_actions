@@ -1,6 +1,3 @@
-# Remove unused import
-# import pytest
-
 def test_calc_addition():
     # Function test the output of 2 + 4
     output = 2 + 4
@@ -23,4 +20,3 @@ def test_coucou():
     # Function test if the output return 'hello'
     output = 'hello'
     assert output == 'hello'
-
